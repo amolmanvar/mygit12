@@ -1,3 +1,3 @@
 print "hello world"
-print "done"
+int a;
 print "ok"
